@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8302a76d-144f-4ae4-94fd-ff16a8e3ba60" name="Default Changelist" comment="" />
+    <list default="true" id="8302a76d-144f-4ae4-94fd-ff16a8e3ba60" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello.go" beforeDir="false" afterPath="$PROJECT_DIR$/hello.go" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,10 +33,16 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="js.buildTools.gulp.gulp_package_dir" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Go Build.go build Error_Processing.go">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Build.go build run_python.go">
     <configuration name="go build Error_Processing.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="go" />
       <working_directory value="$PROJECT_DIR$/" />
@@ -50,11 +59,11 @@
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
-    <configuration name="go build map_1.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build hello.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="go" />
       <working_directory value="$PROJECT_DIR$/" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/map_1.go" />
+      <filePath value="$PROJECT_DIR$/hello.go" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
@@ -66,21 +75,30 @@
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
-    <configuration name="go build range.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build run_python.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="go" />
       <working_directory value="$PROJECT_DIR$/" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/range.go" />
+      <filePath value="$PROJECT_DIR$/run_python.go" />
       <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build run_python.go" />
+        <item itemvalue="Go Build.go build hello.go" />
         <item itemvalue="Go Build.go build Error_Processing.go" />
         <item itemvalue="Go Build.go build Interface.go" />
         <item itemvalue="Go Build.go build map_2.go" />
-        <item itemvalue="Go Build.go build map_1.go" />
-        <item itemvalue="Go Build.go build range.go" />
       </list>
     </recent_temporary>
   </component>
@@ -104,28 +122,37 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="383" y="130" key="#GOROOT/0.0.1440.900@0.0.1440.900" timestamp="1579486439193" />
-    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579486456728">
+    <state x="213" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580792703104">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state x="213" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1280.0.1280.1024/0.0.1440.900@0.0.1440.900" timestamp="1580792703104" />
     <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1579486456728" />
-    <state width="1398" height="251" key="GridCell.Tab.0.bottom" timestamp="1579573234180">
+    <state width="1398" height="295" key="GridCell.Tab.0.bottom" timestamp="1580792847369">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state width="1398" height="295" key="GridCell.Tab.0.bottom/-1280.0.1280.1024/0.0.1440.900@0.0.1440.900" timestamp="1580792847369" />
+    <state width="1398" height="295" key="GridCell.Tab.0.bottom/-1280.23.1280.1001/0.0.1440.900@0.0.1440.900" timestamp="1580792061999" />
     <state width="1398" height="251" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1579573234180" />
     <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.23.1440.823@0.23.1440.823" timestamp="1579487132994" />
-    <state width="1398" height="251" key="GridCell.Tab.0.center" timestamp="1579573234179">
+    <state width="1398" height="295" key="GridCell.Tab.0.center" timestamp="1580792847366">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state width="1398" height="295" key="GridCell.Tab.0.center/-1280.0.1280.1024/0.0.1440.900@0.0.1440.900" timestamp="1580792847366" />
+    <state width="1398" height="295" key="GridCell.Tab.0.center/-1280.23.1280.1001/0.0.1440.900@0.0.1440.900" timestamp="1580792061986" />
     <state width="1398" height="251" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1579573234179" />
     <state width="1398" height="245" key="GridCell.Tab.0.center/0.23.1440.823@0.23.1440.823" timestamp="1579487132993" />
-    <state width="1398" height="251" key="GridCell.Tab.0.left" timestamp="1579573234178">
+    <state width="1398" height="295" key="GridCell.Tab.0.left" timestamp="1580792847365">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state width="1398" height="295" key="GridCell.Tab.0.left/-1280.0.1280.1024/0.0.1440.900@0.0.1440.900" timestamp="1580792847365" />
+    <state width="1398" height="295" key="GridCell.Tab.0.left/-1280.23.1280.1001/0.0.1440.900@0.0.1440.900" timestamp="1580792061985" />
     <state width="1398" height="251" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1579573234178" />
     <state width="1398" height="245" key="GridCell.Tab.0.left/0.23.1440.823@0.23.1440.823" timestamp="1579487132992" />
-    <state width="1398" height="251" key="GridCell.Tab.0.right" timestamp="1579573234179">
+    <state width="1398" height="295" key="GridCell.Tab.0.right" timestamp="1580792847368">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state width="1398" height="295" key="GridCell.Tab.0.right/-1280.0.1280.1024/0.0.1440.900@0.0.1440.900" timestamp="1580792847368" />
+    <state width="1398" height="295" key="GridCell.Tab.0.right/-1280.23.1280.1001/0.0.1440.900@0.0.1440.900" timestamp="1580792061988" />
     <state width="1398" height="251" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1579573234179" />
     <state width="1398" height="245" key="GridCell.Tab.0.right/0.23.1440.823@0.23.1440.823" timestamp="1579487132994" />
     <state x="229" y="73" key="SettingsEditor" timestamp="1579487165736">
